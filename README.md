@@ -15,14 +15,17 @@ Resposta: Questao_2
 
 03) Orientação a objeto
 Crie uma classe contendo 3 propriedades com seus respectivos gets e sets e um método que multiplique as 3 retornando o produto. Deixe um exemplo de utilização da sua classe no final do código.
+
 Resposta: Questao_3
 
 04) Lógica de programação
 Pensando em todos os números naturais inferiores a 10 que são múltiplos de 3 ou 5, temos 3, 5, 6 e 9. Somando esses múltiplos obtemos o valor 23. Utilize um algorítimo para calcular a soma de todos os múltiplos de 3 ou 5 abaixo de 1000
+
 Resposta: Questao_4
 
 05) API
 Imagine que você ficou responsável por desenvolver o backend do sistema de uma biblioteca. Crie uma API RESTful para o cadastro, edição, listagem e exclusão dos livros (título, autor, edição) e o controle de entradas e saídas.
+
 Resposta: em desenvolvimento
 
 06) Crawler
